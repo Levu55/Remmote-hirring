@@ -1,0 +1,8 @@
+{
+  "name": "Remote Hiring",
+  "description": "A premium SaaS recruitment platform connecting businesses with highly skilled professionals worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
